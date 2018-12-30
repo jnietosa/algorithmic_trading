@@ -12,6 +12,9 @@ https://www.x-trader.net/articulos/software-y-tecnologia/conectando-python-y-r-c
 ### Infraestructura-Trading-Distribuida-ZeroMQ-con-MetaTrader4
 ![](/Documentation/Infraestructura-Trading-Distribuida-ZeroMQ-con-MetaTrader4.png)
 
+### Swift support
+http://zeromq.org/bindings:swift-binding
+
 # Machine Learning
 
 Este curso es sobre Python mas especifico en Machine Learning
