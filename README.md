@@ -9,6 +9,9 @@ Este curso https://opentrends.udemy.com/python-for-finance-and-trading-algorithm
 ## Conectando Python y R con MetaTrader 4
 https://www.x-trader.net/articulos/software-y-tecnologia/conectando-python-y-r-con-metatrader-4.html
 
+### Infraestructura-Trading-Distribuida-ZeroMQ-con-MetaTrader4
+![](/Documentation/Infraestructura-Trading-Distribuida-ZeroMQ-con-MetaTrader4.png)
+
 # Machine Learning
 
 Este curso es sobre Python mas especifico en Machine Learning
