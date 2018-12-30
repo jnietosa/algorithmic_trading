@@ -3,6 +3,9 @@
 Cursos de Udemy sobre MQL4 
 https://opentrends.udemy.com/build-your-trading-robot/learn/v4/overview
 
+# Exchanger de interés
+https://www.darwinex.com/es/explore
+
 # Algorihmic Trading wiht Python 
 Este curso https://opentrends.udemy.com/python-for-finance-and-trading-algorithms/learn/v4/overview explica como enfocar el trading algoritmico a Python, la idea puede ser desarrollar las estrategias en python y luego conectar los scripts a MetaTrader 4, encontré un enlace que parece factible. (Básicamente utiliza la librería ZeroMQ)
 
